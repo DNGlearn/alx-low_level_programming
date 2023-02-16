@@ -1,6 +1,5 @@
 #include<stdio.h>
 /**
- * the programs does the thing
  * main - makes the code run
  * Return: 0 (Success)
  */
