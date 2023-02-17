@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stlib.h>
 #include<time.h>
 /**
  * main - whats good main
