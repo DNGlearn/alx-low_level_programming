@@ -5,6 +5,7 @@
 
 /**
  * main - it's yo boi main
+ *Return: 0
  */
 int main(void)
 {
