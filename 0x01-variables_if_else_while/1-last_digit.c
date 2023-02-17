@@ -3,7 +3,9 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/**
+ * main - it's yo boi main
+ */
 int main(void)
 {
 	int n;
