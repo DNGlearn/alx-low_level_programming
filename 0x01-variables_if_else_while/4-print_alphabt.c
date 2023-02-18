@@ -3,7 +3,7 @@
  * main - yo main
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	char lower;
 
@@ -11,7 +11,7 @@ int main (void)
 	while
 		(lower <= 'z')
 		{
-			if(lower != 'q' && lower != 'e')
+			if (lower != 'q' && lower != 'e')
 			{
 				putchar(lower);
 			}
