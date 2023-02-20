@@ -15,10 +15,6 @@ int main(void)
 		{
 			for (y = 0; y < 10; y++)
 			{
-				if (x == 0)
-				{
-					y = 1;
-				}
 				putchar(x + '0');
 				putchar(y + '0');
 				if (x != 8 || y != 9)
