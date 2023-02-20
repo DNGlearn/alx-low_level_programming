@@ -13,7 +13,7 @@ int main(void)
 	while
 		(x < 10)
 		{
-			for (y = 0,y < 10,y++)
+			for (y = 0;y < 10;y++)
 			{
 				putchar("%d%d",x,y);
 			}
