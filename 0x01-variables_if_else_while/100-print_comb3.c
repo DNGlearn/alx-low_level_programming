@@ -13,7 +13,7 @@ int main(void)
 	while
 		(x < 10)
 		{
-			for (y = 0;y < 10;y++)
+			for (y = 0; y < 10; y++)
 			{
 				if (x == 0)
 				{
@@ -21,8 +21,7 @@ int main(void)
 				}
 				putchar(x + '0');
 				putchar(y + '0');
-			
-				if (x != 8 || y != 9)
+				if (x != 8|| y != 9)
 				{
 					putchar(',');
 					putchar(' ');
