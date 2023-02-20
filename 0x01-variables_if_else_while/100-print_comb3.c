@@ -15,10 +15,13 @@ int main(void)
 		{
 			for (y = 0; y < 10; y++)
 			{
-				putchar(x + '0');
-				putchar(y + '0');
-				putchar(',');
-				putchar(' ');
+				if (x != 0 || y != 0)
+				{
+					putchar(x + '0');
+					putchar(y + '0');
+					putchar(',');
+					putchar(' ');
+				}
 			}
 			x++;
 		}
