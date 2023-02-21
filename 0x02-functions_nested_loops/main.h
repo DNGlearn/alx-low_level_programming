@@ -2,7 +2,7 @@
 /**
  * _putchar - function prints _putchar
  */
-void _putchar()
+void put()
 {
 	printf("_putchar\n");
 }
