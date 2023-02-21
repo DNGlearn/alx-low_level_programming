@@ -1,9 +1,10 @@
-#include<stdio.h>
+#include <main.h>
 /**
  * main - black history month
  * Return: 0
  */
 int main(void)
 {
-	printf("_putchar\n");
+	_putchar();
+	return (0);
 }
