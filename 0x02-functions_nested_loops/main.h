@@ -6,7 +6,7 @@ void put()
 {
 	printf("_putchar\n");
 }
-void alpha()
+void print_alphabet()
 {
 	char letter;
 
