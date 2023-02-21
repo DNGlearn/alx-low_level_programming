@@ -1,10 +1,14 @@
-#include"main.h"
-/**
- * main - tomoldo
- * Return: 0
- */
-int main(void)
+#include<stdio.h>
+#include<main.h>
+void print_alphabet()
 {
-	print_alphabet();
-	return (0);
+	char letter;
+
+	letter = 'a';
+	while
+		(letter <= 'z')
+		{
+			putchar(letter + '0');
+		}
+	putchar('\n');
 }
