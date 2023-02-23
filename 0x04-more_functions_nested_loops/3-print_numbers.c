@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_numbers - displays numbers biach
- * Return: nothing puta
+ * @c: charcter
  */
 void print_numbers(void)
 {
