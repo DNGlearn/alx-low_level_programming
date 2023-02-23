@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * print_numbers - displays numbers biach
- * @c: charcter
  */
 void print_numbers(void)
 {
