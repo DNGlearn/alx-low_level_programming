@@ -2,6 +2,7 @@
 /**
  * _puts - function displays tings
  * @*str: the pointer to the string
+ * @str: members an ish
  */
 void _puts(char *str)
 {
