@@ -1,6 +1,7 @@
 /**
  * _strlen - function gets the string lenght
  * @*s: pointer to string of length to get
+ * @s: members of s
  * Return: count
  */
 int _strlen(char *s)
