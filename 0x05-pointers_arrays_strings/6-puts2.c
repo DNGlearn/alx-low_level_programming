@@ -13,6 +13,7 @@ void puts2(char *str)
 		str++;
 		count++;
 	}
+	count--;
 	while (i <= count)
 	{
 		if (i % 2 == 1)
