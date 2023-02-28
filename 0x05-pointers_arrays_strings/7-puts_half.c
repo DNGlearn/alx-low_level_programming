@@ -2,7 +2,7 @@
 #include<stdio.h>
 /**
  * puts_half - yo boi skinny ..
- *
+ * @str: i love you b
  */
 void puts_half(char *str)
 {
@@ -12,7 +12,6 @@ void puts_half(char *str)
 	{
 		c++;
 	}
-
 	b = (c / 2);	
 	for (a = 0; a < c; a++)
 	{
