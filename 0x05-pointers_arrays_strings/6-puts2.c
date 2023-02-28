@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * puts2 - the func
+ * @str: tings
  */
 void puts2(char *str)
 {
