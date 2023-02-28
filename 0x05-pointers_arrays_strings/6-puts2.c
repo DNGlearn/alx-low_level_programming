@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+ * puts2 - the func
  */
 void puts2(char *str)
 {
