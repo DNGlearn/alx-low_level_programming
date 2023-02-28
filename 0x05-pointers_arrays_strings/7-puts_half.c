@@ -1,6 +1,7 @@
 #include "main.h"
 #include<stdio.h>
 /**
+ * puts_half - yo boi skinny ..
  *
  */
 void puts_half(char *str)
@@ -12,8 +13,7 @@ void puts_half(char *str)
 		c++;
 	}
 
-	b = (c / 2);
-	
+	b = (c / 2);	
 	for (a = 0; a < c; a++)
 	{
 		if (c % 2 == 1)
