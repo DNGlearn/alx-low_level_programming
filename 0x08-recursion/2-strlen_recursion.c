@@ -3,7 +3,7 @@
  * _strlen_recursion - the func
  * @s: the tings
  */
-void _strlen_recursion(char *s)
+int _strlen_recursion(char *s)
 {
 	int count;
 
@@ -13,4 +13,5 @@ void _strlen_recursion(char *s)
 		count++;
 		_strlen_recursion(s + 1);
 	}
+	return (count);
 }
