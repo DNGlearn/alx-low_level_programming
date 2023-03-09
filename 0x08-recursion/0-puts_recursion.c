@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * void _puts_recursion - the function
+ * _puts_recursion - the function
  * @s: the deets babyyy
  */
 void _puts_recursion(char *s)
