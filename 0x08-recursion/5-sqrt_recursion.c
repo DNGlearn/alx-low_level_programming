@@ -30,6 +30,6 @@ int ext_sqrt(int n, int s)
 	}
 	if (s * s == n)
 	{
-		return (i);
+		return (s);
 	}
 }
