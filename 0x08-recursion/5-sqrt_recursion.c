@@ -24,12 +24,13 @@ int _sqrt_recursion(int n)
  */
 int ext_sqrt(int n, int s)
 {
-	if (s * s < n)
+	if (s * s > n)
 	{
-		return (ext_sqrt(n, s + 1));
+		return (-1);
 	}
 	if (s * s == n)
 	{
 		return (s);
 	}
+	return (ext_sqrt(n, s + 1));
 }
