@@ -1,4 +1,5 @@
 #include "main.h"
+int ext_sqrt(int n, int s);
 /**
  * _sqrt_recursion - the func goes on
  * @n: the nums
