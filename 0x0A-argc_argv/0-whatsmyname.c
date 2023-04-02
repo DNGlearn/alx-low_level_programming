@@ -3,6 +3,7 @@
  * main - the main function
  * @argv: argument vector
  * @argc: argument counter
+ * @i: array index
  * Return: 0
  */
 int main(int argc, char* argv[])
