@@ -1,8 +1,8 @@
 #include "main.h"
-
+#include "m.h"
 int main(void)
 {
 	print_holberton();
-	return (EXIT_SUCCESS);
+	return 0;
 }
 /* School */
