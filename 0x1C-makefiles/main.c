@@ -1,7 +1,11 @@
 #include "m.h"
+
+/**
+ * main - main code
+ * Return: always
+ */
 int main(void)
 {
 	print_holberton();
-	return 0;
-}
-/* School */
+	return (EXIT_SUCCESS);
+}/* School */

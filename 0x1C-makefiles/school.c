@@ -1,4 +1,3 @@
-#include<stdio.h>
 #include "m.h"
 
 void print_holberton(void)
