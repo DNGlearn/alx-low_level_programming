@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	fish();
+	print_holberton();
 	return 0;
 }
 /* School */

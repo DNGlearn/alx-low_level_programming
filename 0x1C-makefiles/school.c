@@ -2,7 +2,7 @@
 #include<m.h>
 """ now includes the m.h file"""
 
-void fish(void)
+void print_holberton(void)
 {
 	printf("j#0000000000000000000000000000000000000\n");
 	printf("j#000000000000000000@Q**g00000000000000\n");
