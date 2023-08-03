@@ -5,3 +5,4 @@ int main(void)
 	fish();
 	return 0;
 }
+/* School */
