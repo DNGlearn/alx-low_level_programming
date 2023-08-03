@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<m.h>
+""" now includes the m.h file"""
 
 void fish(void)
 {
