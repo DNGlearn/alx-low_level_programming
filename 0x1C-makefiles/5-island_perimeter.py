@@ -1,6 +1,8 @@
 #!/usr/bin/python3
+""" the measuring function  """
 
 def island_perimeter(grid):
+    """ returns perimeter number """
     width = len(grid[0])
     height = len(grid)
     edges = 0
